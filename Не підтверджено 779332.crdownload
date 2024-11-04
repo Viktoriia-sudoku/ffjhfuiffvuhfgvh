@@ -1,0 +1,13 @@
+autor.html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title style="color: yellow;text-align:justify;font-size:20px">Автор</title>
+        <link rel="icon" href=""img/wheel.png">
+    </head>
+    <body>
+        <h3 style="color: purple;tezt-align:start;font-size:15px">Роботу виконала учениця 9-Б класу Заболотня Вікторія Олександрівна</h3>
+        <a href="index.html">Назад</a>
+    </body>
+</html>
