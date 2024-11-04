@@ -1,0 +1,17 @@
+fhfh.css
+<button>CLick me!</button>
+button {
+    top:50%
+    background color: black;
+    color: white;
+    border: none;
+    border-radius:10px;
+    padding:15px;
+    min-height:30px;
+    min-weight:120px;
+}
+button:active {
+    background-color: orange;
+}
+<div class="polaroid">
+    <img src="img/img_5terrre.jpg">
